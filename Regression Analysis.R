@@ -85,7 +85,8 @@ cbind(new2,p2)
 
 plot(fit1)
 
-
+install.packages("googlesheets")
+library(googlesheets)
 
 
 
